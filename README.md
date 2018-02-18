@@ -1,2 +1,2 @@
 # quiver-node
-Relay server for the distributed app framework
+Relay server for the ARCH distributed app framework
